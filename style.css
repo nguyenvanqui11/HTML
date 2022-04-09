@@ -1,0 +1,58 @@
+body{
+    background-color: gainsboro;
+}
+
+.menu{  
+    background-color: rgb(255, 255, 255);
+    height: 90vh;
+    width: 20vw;
+    text-align: center;
+    background-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    padding-top: 100px;
+}
+li{
+    list-style-type: none;
+    font-size: 25px;   
+    float: left;
+    padding-bottom: 20px;
+}
+.bx-chevron-right{
+    /* float: right; */
+    margin-left: 120px; 
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 50px;
+    padding: 10 70 10 70;
+}
+
+
+span{
+    font-size: 15px;
+}
+.footer{
+    margin-top: 200px;
+    text-align: center;
+}
+span:nth-child(2) {
+    padding: 0 30 0 30
+}
+.bx{
+    margin-top: 10px;
+}
+.bxs-circle-half{
+    float: left;
+    font-size: 40px; 
+}
+.bx-x{
+    float: right;
+    font-size: 40px;
+    margin-right: 8px;
+}
